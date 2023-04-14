@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://notesprojectbeta.pythonanywhere.com](https://notesprojectbeta.pythonanywhere.com)
+- 👨‍💻 Projects:- [https://notesprojectbeta.pythonanywhere.com](https://notesprojectbeta.pythonanywhere.com)
 
 - 💬 Ask me about **Django 🐍**
 
