@@ -12,9 +12,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 Projects:- [https://notesprojectbeta.pythonanywhere.com](https://notesprojectbeta.pythonanywhere.com)
-
-- 💬 Ask me about **Django 🐍**
+- 💬 Ask me about **Mern Stack🐍**
 
 - 📫 How to reach me **Sahilchalke1011@gmail.com**
 
