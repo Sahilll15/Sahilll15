@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on [Notes Beta](https://notesprojectbeta.pythonanywhere.com/notes/)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Aws**
 
-- 💬 Ask me about **Mern Stack🐍**
+- 💬 Ask me about **Mern Stack**
 
 - 📫 How to reach me **Sahilchalke1011@gmail.com**
 
