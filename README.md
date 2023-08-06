@@ -25,17 +25,17 @@
 ### <p align="center">Technical Skills</p>
 
 <p align="center">
-  <a href="sahilchalke.online" target="_blank">
+  <a href="https://sahilchalke.online/>
     <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,typescript,next,mysql" />
   </a>
 </p>
 <p align="center">
-  <a href="sahilchalke.online">
+<a href="https://sahilchalke.online/>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,git,github,firebase,django" />
   </a>
 </p>
 <p align="center">
-  <a href="sahilchalke.online">
+ <a href="https://sahilchalke.online/>
     <img src="https://skillicons.dev/icons?i=docker,linux,netlify,nginx" />
   </a>
 </p>
