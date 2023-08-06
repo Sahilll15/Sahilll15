@@ -34,7 +34,7 @@
 <p align="center">  
   <img src="https://skillicons.dev/icons?i=docker,linux,netlify,nginx" />
 </p>
-
+<hr>
 <h3 align="center">About Me:</h3>
 <p align="center">
   Hi there! I'm Sahil Chalke, a dedicated Full Stack developer with a passion for creating efficient and user-friendly web applications. Currently, I'm focused on building full Stack projects
@@ -42,10 +42,16 @@
 <hr>
 
 <h3 align="center">Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahilll15&show_icons=true&locale=en" alt="Sahilll15" />
-</p>
-<hr>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilll15&" alt="Sahilll15" />
-</p>
+<div style="display: flex-row;">
+  <div style="flex: 1; padding: 10px;">
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Sahilll15&show_icons=true&locale=en" alt="Sahilll15" />
+    </p>
+  </div>
+  <div style="flex: 1; padding: 10px;">
+    <p align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilll15" alt="Sahilll15" />
+    </p>
+  </div>
+</div>
+
