@@ -25,19 +25,25 @@
 ### <p align="center">Technical Skills</p>
 
 <p align="center">
-  
-    <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,typescript,next,mysql" />
+  <a>
+     <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,typescript,next,mysql" />
 
+  </a>
+   
 </p>
 <p align="center">
+  <a>
+     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,git,github,firebase,django" />
 
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,git,github,firebase,django" />
-
+  </a>
+   
 </p>
-<p align="center">
+<p align="center">  
+  <a>
+     <img src="https://skillicons.dev/icons?i=docker,linux,netlify,nginx" />
 
-    <img src="https://skillicons.dev/icons?i=docker,linux,netlify,nginx" />
-
+  </a>
+   
 </p>
 <h3 align="left">About Me:</h3>
 <p align="left">
