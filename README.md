@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sahil Chalke</h1>
+<h1 h1 align="center">Hi 👋, I'm Sahil Chalke</h1>
 <h3 align="center">A passionate Full Stack developer </h3>
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-</p>
-🔭 I’m currently working on Notes Beta, an online college note-sharing platform.</br>
+
+🔭 I’m currently working on Notes Beta, an online college note-sharing platform.
 
 🌱 I’m currently learning AWS for cloud deployment.
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://leetcode.com/sahil_chalke/" target="blank">
+  <a href="https://leetcode.com/sahilll15/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
   <a href="https://github.com/sahilchalke" target="blank">
@@ -70,5 +70,8 @@
     <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="40" />
   </a>
 
-  
+ 
 </p>
+<h3 align="left">About Me:</h3>
+<p align="left">
+  Hi there! I'm Sahil Chalke, a dedicated Full Stack developer with a passion for creating efficient and user-friendly web applications. Currently, I'm focused on building full Stack projects </p>
