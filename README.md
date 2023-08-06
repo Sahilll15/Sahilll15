@@ -1,5 +1,6 @@
 <h1 h1 align="center">Hi 👋, I'm Sahil Chalke</h1>
 <h3 align="center">A passionate Full Stack developer </h3>
+
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 🔭 I’m currently working on Notes Beta, an online college note-sharing platform.
