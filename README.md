@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer </h3>
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 </p>
-🔭 I’m currently working on Notes Beta, an online college note-sharing platform.
+🔭 I’m currently working on Notes Beta, an online college note-sharing platform.</br>
 
 🌱 I’m currently learning AWS for cloud deployment.
 
