@@ -25,7 +25,7 @@
 ### <p align="center">Technical Skills</p>
 
 <p align="center">
-  <a href="sahilchalke.online">
+  <a href="sahilchalke.online" target="_blank">
     <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,typescript,next,mysql" />
   </a>
 </p>
