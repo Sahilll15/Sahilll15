@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,git,github,firebase,django" />
 </p>
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=docker,linux,netlify,nginx" />
+  <img src="https://skillicons.dev/icons?i=docker,postman,vercel,linux,netlify,nginx" />
 </p>
 <hr>
 <h3 align="center">About Me:</h3>
