@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, Sahil Chalke Here!!!</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-![WhatsApp Image 2023-08-27 at 4 32 39 PM (1)](https://github.com/Sahilll15/Sahilll15/assets/109215419/50d25293-0635-45f8-b0ab-e8c8dc6ec933)
+
+<p align="center">
+  <img src="https://github.com/Sahilll15/Sahilll15/assets/109215419/50d25293-0635-45f8-b0ab-e8c8dc6ec933" alt="Sahil Chalke" width="800px" style="margin-left: 200px;">
+</p>
 
 
 <p align="center">🔭 I’m currently working on Notes Beta, an online college note-sharing platform.</p>
