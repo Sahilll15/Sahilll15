@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/Sahilll15/Sahilll15/assets/109215419/50d25293-0635-45f8-b0ab-e8c8dc6ec933" alt="Sahil Chalke" width="800px" style="margin-left: 200px;">
+  <img src="https://github.com/Sahilll15/Sahilll15/assets/109215419/50d25293-0635-45f8-b0ab-e8c8dc6ec933" alt="Sahil Chalke" width="600px" style="margin-left: 200px;">
 </p>
 
 
