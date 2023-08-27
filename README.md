@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, Sahil Chalke Here!!!</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-<p align="center">
-  <img alt="Coding" width="600px" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-</p>
+![WhatsApp Image 2023-08-27 at 4 32 39 PM (1)](https://github.com/Sahilll15/Sahilll15/assets/109215419/50d25293-0635-45f8-b0ab-e8c8dc6ec933)
+
 
 <p align="center">🔭 I’m currently working on Notes Beta, an online college note-sharing platform.</p>
 
