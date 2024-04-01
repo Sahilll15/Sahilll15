@@ -28,7 +28,7 @@
 
 <h3 align="center">Technical Skills</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,typescript,next,mysql" />
+  <img src="https://skillicons.dev/icons?i=js,mongodb,flutter,express,react,nodejs,typescript,next,mysql" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,git,github,firebase,django" />
