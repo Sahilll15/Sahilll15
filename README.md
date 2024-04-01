@@ -7,8 +7,6 @@
 </p>
 
 
-<p align="center">🔭 I’m currently working on Notes Beta, an online college note-sharing platform.</p>
-
 <p align="center">🌱 I’m currently learning AWS for cloud deployment.</p>
 
 <p align="center">💬 Ask me about MERN Stack development, with a focus on Express.js and MongoDB.</p>
