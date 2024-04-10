@@ -29,10 +29,10 @@
   <img src="https://skillicons.dev/icons?i=js,mongodb,flutter,express,react,nodejs,typescript,next,mysql" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,git,github,firebase,django" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,git,github,firebase,django,redis" />
 </p>
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=docker,postman,vercel,linux,netlify,nginx,solidity" />
+  <img src="https://skillicons.dev/icons?i=docker,postman,vercel,linux,netlify,nginx,solidity,python" />
 </p>
 <hr>
 <h3 align="center">About Me:</h3>
