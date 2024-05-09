@@ -39,6 +39,7 @@
   <a href="https://github.com/sahilchalke" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
+
 </p>
 <hr>
 
@@ -50,7 +51,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,git,github,firebase,django,redis" />
 </p>
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=docker,postman,vercel,linux,netlify,nginx,solidity,python" />
+  <img src="https://skillicons.dev/icons?i=docker,postman,vercel,linux,netlify,nginx,solidity,python,appwrite" />
 </p>
 <hr>
 <h3 align="center">About Me:</h3>
