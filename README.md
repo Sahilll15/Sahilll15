@@ -12,6 +12,24 @@
 <p align="center">💬 Ask me about MERN Stack development, with a focus on Express.js and MongoDB.</p>
 
 <p align="center">📫 How to reach me: Sahilchalke1011@gmail.com</p>
+<hr>
+<body style="font-family: Arial, sans-serif; background-color: #f0f0f0; margin: 0; padding: 0;">
+<div  align="center" style="max-width: 600px; margin: 0 auto; padding: 20px; text-align: center;">
+  <h3 style="color: #333; border-bottom: 2px solid #333; padding-bottom: 10px; ">Achievements 🏆</h3>
+
+  <p style="color: #666; margin: 10px 0;">MLSC COHERENCE HACKATHON WINNER 2024 🎉</p>
+
+  <p style="color: #666; margin: 10px 0;">INNOV8 2.0 HACKATHON WINNER, 2024 🏅</p>
+
+  <p style="color: #666; margin: 10px 0;">OSCILLATION TECHNICAL PAPER PRESENTATION WINNER 2024 🥇</p>
+
+  <p style="color: #666; margin: 10px 0;">CODE-O-FIESTA WINNER, 2023 🎉</p>
+
+  <p style="color: #666; margin: 10px 0;">VNPS WINNER 2023 🥇</p>
+
+  <p style="color: #666; margin: 10px 0;">OSCILLATION TECHNICAL PAPER PRESENTATION WINNER 2023 🏅</p>
+</div>
+</body>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
