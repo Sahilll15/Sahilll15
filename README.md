@@ -53,6 +53,9 @@
 <p align="center">  
   <img src="https://skillicons.dev/icons?i=docker,postman,vercel,linux,netlify,nginx,solidity,python,appwrite" />
 </p>
+<p align="center">  
+  <img src="https://skillicons.dev/icons?i=graphql,prisma" />
+</p>
 <hr>
 <h3 align="center">About Me:</h3>
 <p align="center">
