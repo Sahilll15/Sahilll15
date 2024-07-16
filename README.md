@@ -45,7 +45,7 @@
 
 <h3 align="center">Technical Skills</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,mongodb,flutter,express,react,nodejs,typescript,next,mysql" />
+  <img src="https://skillicons.dev/icons?i=js,ts,mongodb,flutter,express,react,nodejs,typescript,next,mysql" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,git,github,firebase,django,redis" />
@@ -54,7 +54,7 @@
   <img src="https://skillicons.dev/icons?i=docker,postman,vercel,linux,netlify,nginx,solidity,python,appwrite" />
 </p>
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=graphql,prisma" />
+  <img src="https://skillicons.dev/icons?i=graphql,prisma,aws,cpp,githubactions,kafka,postgres,redux,supabase" />
 </p>
 <hr>
 <h3 align="center">About Me:</h3>
