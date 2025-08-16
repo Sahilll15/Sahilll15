@@ -18,6 +18,7 @@ Hi there! I'm **Sahil Chalke**, a passionate  Software Engineer with experience 
 ---
 
 ### 🏆 Achievements
+- 🥇 **MLSC COHERENCE Hackathon Winner 2025**  
 - 🥇 **MLSC COHERENCE Hackathon Winner 2024**  
 - 🏅 **INNOV8 2.0 Hackathon Winner 2024**  
 - 🥇 **Oscillation Technical Paper Presentation Winner 2024**  
