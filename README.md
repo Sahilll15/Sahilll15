@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 Hi there! I'm **Sahil Chalke**, a passionate  Software Engineer with experience in building scalable, efficient, and user-friendly applications.  
-- 🔭 Currently working with Contentstack(https://www.contentstack.com/)(https://github.com/SahilCs15)   
+- 🔭 Currently working with Contentstack(https://www.contentstack.com/) (git:(https://github.com/SahilCs15))  
 - 🌱 Currently learning **AWS, AI/ML, and Cloud Deployments**  
 - 💻 Previously worked extensively with the **MERN stack, Micro-Frontends, and Smart City Dashboard (IoT + AI)**  
 - 💬 Ask me about **MERN Stack, Micro Frontends, AI Integrations, Contentstack Extensions**  
