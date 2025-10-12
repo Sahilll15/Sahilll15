@@ -1,71 +1,112 @@
-<h1 align="center">Hi 👋, I'm Sahil Chalke</h1>
-<h3 align="center"> Software Engineer </h3>
+<!-- ⚡ SAHIL CHALKE - GITHUB PROFILE README -->
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Hey+there!+👋+I'm+Sahil+Chalke;Full-Stack+Software+Engineer;MERN+Stack+Specialist;Cloud+%26+AI+Enthusiast;Turning+Ideas+Into+Impactful+Solutions"
+      alt="Typing SVG" 
+    />
+  </a>
+</h1>
 
 <p align="center">
-  <img src="https://github.com/Sahilll15/Sahilll15/assets/109215419/50d25293-0635-45f8-b0ab-e8c8dc6ec933" alt="Sahil Chalke" width="600px">
+  <img src="https://img.shields.io/badge/🚀_Building_with_Passion-00F0FF?style=for-the-badge&logoColor=white"/>
 </p>
 
----
-
-### 🚀 About Me
-Hi there! I'm **Sahil Chalke**, a passionate  Software Engineer with experience in building scalable, efficient, and user-friendly applications.  
-- 🔭 Currently working with Contentstack(https://www.contentstack.com/) (git:(https://github.com/SahilCs15))  
-- 🌱 Currently learning **AWS, AI/ML, and Cloud Deployments**  
-- 💻 Previously worked extensively with the **MERN stack, Micro-Frontends, and Smart City Dashboard (IoT + AI)**  
-- 💬 Ask me about **MERN Stack, Micro Frontends, AI Integrations, Contentstack Extensions**  
-- 📫 Reach me at: **Sahilchalke1011@gmail.com**
-
----
-
-### 🏆 Achievements
-- 🥇 **MLSC COHERENCE Hackathon Winner 2025**  
-- 🥇 **MLSC COHERENCE Hackathon Winner 2024**  
-- 🏅 **INNOV8 2.0 Hackathon Winner 2024**  
-- 🥇 **Oscillation Technical Paper Presentation Winner 2024**  
-- 🎉 **Code-O-Fiesta Winner 2023**  
-- 🥇 **VNPS Winner 2023**  
-- 🏅 **Oscillation Technical Paper Presentation Winner 2023**
-
----
-
-### 🔗 Connect With Me
 <p align="center">
-  <a href="https://leetcode.com/sahilll15/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  Passionate <strong>Software Engineer</strong> creating <em>scalable, efficient & user-focused</em> digital products.  
+  Currently innovating at <strong>Contentstack</strong> 💼 — bridging **Cloud, AI, and Next-Gen Web Tech**.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-url" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/sahilll15" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  <a href="https://leetcode.com/sahilll15/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="mailto:Sahilchalke1011@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Technical Skills
+### 💫 About Me  
+
+- 💼 Software Engineer @ [**Contentstack**](https://www.contentstack.com/)  
+- 🌱 Exploring **AWS**, **AI/ML**, and **Cloud-Native Architectures**  
+- 🤝 Love contributing to **open source** & collaborative projects  
+- 🧩 Ask me about **MERN Stack, Cloud Infra, AI Integration, Micro-Frontends**  
+- ⚡ Fun fact: I love building tools that make **developers' lives easier!**
+
+---
+
+### 🧰 Tech Universe
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,next,ts,redux,html,css,tailwind,bootstrap,vite,webpack" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,graphql,prisma,solidity" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase,appwrite" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>DevOps & Cloud</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,git,nginx,linux,vercel,netlify" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Testing & Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=jest,postman,kafka,cpp,flutter" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏆 Achievements & Highlights
+
+| 🏅 Event | 🏆 Award | 📆 Year |
+|:--------|:---------|:------:|
+| MLSC COHERENCE Hackathon | 🥇 **Winner** | 2025 |
+| MLSC COHERENCE Hackathon | 🥇 **Winner** | 2024 |
+| INNOV8 2.0 Hackathon | 🏅 **Winner** | 2024 |
+| Oscillation (Paper Presentation) | 🥇 **Winner** | 2024 |
+| Code-O-Fiesta | 🎉 **Winner** | 2023 |
+| VNPS Competition | 🥇 **Winner** | 2023 |
+| Oscillation (Paper Presentation) | 🏅 **Winner** | 2023 |
+
+---
+
+### ⚙️ GitHub Analytics
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,next,mysql,flutter,webpack,jest,vite" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sahilll15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Sahilll15&theme=tokyonight&hide_border=true" />
 </p>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,git,github,firebase,django,redis,nestjs" />
-</p>
-<p align="center">  
-  <img src="https://skillicons.dev/icons?i=docker,postman,vercel,linux,netlify,nginx,solidity,python,appwrite" />
-</p>
-<p align="center">  
-  <img src="https://skillicons.dev/icons?i=graphql,prisma,aws,cpp,githubactions,kafka,postgres,redux,supabase,rollup" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahilll15&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahilll15&show_icons=true&locale=en" alt="Sahilll15" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilll15" alt="Sahilll15" />
-</p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahilll15&theme=2077" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahilll15&theme=2077" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahilll15&theme=2077" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahilll15&theme=2077" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilll15&theme=2077" height="180em" />
+  <img src="https://komarev.com/ghpvc/?username=Sahilll15&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile views" />
 </p>
