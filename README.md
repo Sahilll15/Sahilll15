@@ -19,10 +19,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-url" target="_blank">
+  <a href="[https://www.linkedin.com/in/your-linkedin-url](https://www.linkedin.com/in/sahilchalke/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/sahilll15/" target="_blank">
+  <a href="[https://leetcode.com/sahilll15/](https://leetcode.com/u/sahil_chalke/)" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   <a href="mailto:Sahilchalke1011@gmail.com">
