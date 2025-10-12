@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Chalke</h1>
-<h3 align="center"> Software Engineer | Full Stack Developer</h3>
+<h3 align="center"> Software Engineer </h3>
 
 <p align="center">
   <img src="https://github.com/Sahilll15/Sahilll15/assets/109215419/50d25293-0635-45f8-b0ab-e8c8dc6ec933" alt="Sahil Chalke" width="600px">
