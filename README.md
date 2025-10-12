@@ -45,7 +45,7 @@ Hi there! I'm **Sahil Chalke**, a passionate  Software Engineer with experience 
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,next,mysql,flutter,webpack,jest,vite" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,git,github,firebase,django,redis" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,git,github,firebase,django,redis,nestjs" />
 </p>
 <p align="center">  
   <img src="https://skillicons.dev/icons?i=docker,postman,vercel,linux,netlify,nginx,solidity,python,appwrite" />
