@@ -6,7 +6,7 @@
 
 <!-- ============================ HERO ============================ -->
 <a href="https://sahilchalke.com">
-  <img width="100%" src="https://raw.githubusercontent.com/Sahilll15/Sahilll15/main/assets/hero.svg" alt="Sahil Chalke — Full-Stack Software Engineer"/>
+  <img width="100%" src="https://raw.githubusercontent.com/Sahilll15/Sahilll15/main/assets/editor.svg" alt="Sahil Chalke — about.ts"/>
 </a>
 
 <!-- ============================ ROLES (typing) ============================ -->
@@ -32,24 +32,6 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=Sahilll15&label=visitors&color=e2ff2d&style=for-the-badge&labelColor=080a09" alt="Profile views"/>
 </p>
-
-<img width="100%" src="https://raw.githubusercontent.com/Sahilll15/Sahilll15/main/assets/divider.svg" alt="divider"/>
-
-<!-- ============================ ABOUT ============================ -->
-<p align="center">
-  <img width="62%" src="https://raw.githubusercontent.com/Sahilll15/Sahilll15/main/assets/sec-about.svg" alt="about-me.ts"/>
-</p>
-
-```ts
-const sahilChalke: Engineer = {
-  role:       "Associate Software Engineer @ Contentstack",
-  mission:    "Crafting scalable, efficient & user-focused digital products",
-  exploring:  ["AWS", "AI / ML", "Cloud-Native Architectures"],
-  loves:      ["open source", "collaborative builds", "developer tooling"],
-  askMeAbout: ["MERN Stack", "Cloud Infra", "AI Integration", "Micro-Frontends"],
-  funFact:    "I build tools that make developers' lives easier ⚡",
-};
-```
 
 <img width="100%" src="https://raw.githubusercontent.com/Sahilll15/Sahilll15/main/assets/divider.svg" alt="divider"/>
 

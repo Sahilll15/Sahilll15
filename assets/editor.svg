@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480" fill="none" role="img" aria-label="Sahil Chalke — about.ts">
+  <defs>
+    <pattern id="eg" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" stroke="#e2ff2d" stroke-width="1" opacity="0.05"/></pattern>
+    <radialGradient id="ga" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#e2ff2d" stop-opacity="0.5"/><stop offset="100%" stop-color="#e2ff2d" stop-opacity="0"/></radialGradient>
+    <radialGradient id="gb" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#5b8cff" stop-opacity="0.45"/><stop offset="100%" stop-color="#5b8cff" stop-opacity="0"/></radialGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="10"/></filter>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%"><feDropShadow dx="0" dy="16" stdDeviation="26" flood-color="#000000" flood-opacity="0.55"/></filter>
+    <clipPath id="win"><rect x="40" y="30" width="1120" height="420" rx="16"/></clipPath>
+    <style>.m{font-family:'JetBrains Mono','SF Mono',ui-monospace,'Courier New',monospace;}</style>
+  </defs>
+
+  <!-- canvas -->
+  <rect width="1200" height="480" fill="#060806"/>
+  <rect width="1200" height="480" fill="url(#eg)"/>
+  <ellipse cx="200" cy="90" rx="300" ry="180" fill="url(#ga)" filter="url(#blur)"><animate attributeName="opacity" values="0.5;0.9;0.5" dur="7s" repeatCount="indefinite"/></ellipse>
+  <ellipse cx="1040" cy="420" rx="300" ry="170" fill="url(#gb)" filter="url(#blur)"><animate attributeName="opacity" values="0.4;0.75;0.4" dur="8s" repeatCount="indefinite"/></ellipse>
+
+  <!-- window -->
+  <rect x="40" y="30" width="1120" height="420" rx="16" fill="#0d100c" stroke="#e2ff2d" stroke-opacity="0.16" filter="url(#shadow)"/>
+
+  <g clip-path="url(#win)">
+    <!-- title bar -->
+    <rect x="40" y="30" width="1120" height="42" fill="#0b0e09"/>
+    <circle cx="70" cy="51" r="6.5" fill="#ff5f57"/>
+    <circle cx="92" cy="51" r="6.5" fill="#febc2e"/>
+    <circle cx="114" cy="51" r="6.5" fill="#e2ff2d"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.6s" repeatCount="indefinite"/></circle>
+    <text x="600" y="56" text-anchor="middle" class="m" font-size="14" fill="#7e8576">sahil-chalke <tspan fill="#4c5346">—</tspan> about.ts</text>
+    <text x="1132" y="56" text-anchor="end" class="m" font-size="12" fill="#4c5346">⎇ main</text>
+    <circle cx="1024" cy="51" r="4" fill="#e2ff2d"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.6s" repeatCount="indefinite"/></circle>
+    <text x="1034" y="55" class="m" font-size="11" fill="#4c5346">live</text>
+    <line x1="40" y1="72" x2="1160" y2="72" stroke="#ffffff" stroke-opacity="0.06"/>
+
+    <!-- sidebar -->
+    <rect x="40" y="72" width="232" height="378" fill="#0a0d08"/>
+    <line x1="272" y1="72" x2="272" y2="450" stroke="#ffffff" stroke-opacity="0.06"/>
+    <text x="64" y="102" class="m" font-size="10.5" letter-spacing="2" fill="#4c5346">EXPLORER</text>
+    <path d="M60 124 l6 4 l-6 4 z" fill="#7e8576"/>
+    <text x="74" y="132" class="m" font-size="12.5" fill="#aeb4ac">SAHIL-CHALKE</text>
+
+    <!-- active file highlight -->
+    <rect x="40" y="170" width="232" height="26" fill="#e2ff2d" opacity="0.08"/>
+    <rect x="40" y="170" width="3" height="26" fill="#e2ff2d"/>
+
+    <!-- files -->
+    <g class="m" font-size="12.5">
+      <rect x="86" y="150" width="11" height="11" rx="2" fill="#5b8cff"/><text x="104" y="160" fill="#7e8576">hero.tsx</text>
+      <rect x="86" y="178" width="11" height="11" rx="2" fill="#e2ff2d"/><text x="104" y="188" fill="#f4f6f3">about.ts</text>
+      <rect x="86" y="206" width="11" height="11" rx="2" fill="#e2ff2d"/><text x="104" y="216" fill="#7e8576">skills.ts</text>
+      <rect x="86" y="234" width="11" height="11" rx="2" fill="#5b8cff"/><text x="104" y="244" fill="#7e8576">projects.tsx</text>
+      <rect x="86" y="262" width="11" height="11" rx="2" fill="#ff8f57"/><text x="104" y="272" fill="#7e8576">contact.md</text>
+    </g>
+
+    <!-- git changes -->
+    <text x="64" y="326" class="m" font-size="10.5" letter-spacing="2" fill="#4c5346">SOURCE CONTROL</text>
+    <g class="m" font-size="12">
+      <text x="64" y="352" fill="#e2ff2d">M <tspan fill="#7e8576">about.ts</tspan></text>
+      <text x="64" y="374" fill="#5b8cff">U <tspan fill="#7e8576">skills.ts</tspan></text>
+      <text x="64" y="396" fill="#ff8f57">M <tspan fill="#7e8576">hero.tsx</tspan></text>
+    </g>
+
+    <!-- tab bar -->
+    <rect x="272" y="72" width="888" height="34" fill="#0b0e09"/>
+    <rect x="272" y="72" width="140" height="34" fill="#0a0c08"/>
+    <rect x="272" y="72" width="140" height="2" fill="#e2ff2d"/>
+    <text x="294" y="94" class="m" font-size="12.5" fill="#e2ff2d">about.ts <tspan fill="#4c5346">✕</tspan></text>
+    <text x="430" y="94" class="m" font-size="12.5" fill="#6f756d">hero.tsx</text>
+    <text x="548" y="94" class="m" font-size="12.5" fill="#6f756d">skills.ts</text>
+    <line x1="272" y1="106" x2="1160" y2="106" stroke="#ffffff" stroke-opacity="0.06"/>
+
+    <!-- code area -->
+    <rect x="272" y="106" width="888" height="322" fill="#0a0c08"/>
+    <!-- current line highlight -->
+    <rect x="272" y="368" width="888" height="26" fill="#ffffff" opacity="0.03"/>
+    <!-- gutter -->
+    <rect x="272" y="106" width="52" height="322" fill="#090b07"/>
+    <g class="m" font-size="12.5" fill="#3f4634" text-anchor="end">
+      <text x="312" y="140">1</text><text x="312" y="168">2</text><text x="312" y="196">3</text><text x="312" y="224">4</text>
+      <text x="312" y="252">5</text><text x="312" y="280">6</text><text x="312" y="308">7</text><text x="312" y="336">8</text>
+      <text x="312" y="364">9</text><text x="312" y="392" fill="#e2ff2d">10</text>
+    </g>
+
+    <!-- scan highlight -->
+    <rect x="324" y="106" width="836" height="22" fill="#e2ff2d" opacity="0.05">
+      <animate attributeName="y" values="120;392;120" dur="6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+    </rect>
+
+    <!-- code -->
+    <g class="m" font-size="13.5">
+      <text x="344" y="140"><tspan fill="#e2ff2d">const</tspan><tspan fill="#5b8cff"> developer</tspan><tspan fill="#6f756d"> = {</tspan></text>
+      <text x="372" y="168"><tspan fill="#d6dcc8">name</tspan><tspan fill="#6f756d">:    </tspan><tspan fill="#a8d962">'Sahil Chalke'</tspan><tspan fill="#6f756d">,</tspan></text>
+      <text x="372" y="196"><tspan fill="#d6dcc8">role</tspan><tspan fill="#6f756d">:    </tspan><tspan fill="#a8d962">'Associate Software Engineer'</tspan><tspan fill="#6f756d">,</tspan></text>
+      <text x="372" y="224"><tspan fill="#d6dcc8">company</tspan><tspan fill="#6f756d">: </tspan><tspan fill="#a8d962">'Contentstack'</tspan><tspan fill="#6f756d">,</tspan></text>
+      <text x="372" y="252"><tspan fill="#d6dcc8">stack</tspan><tspan fill="#6f756d">:   [</tspan><tspan fill="#a8d962">'React'</tspan><tspan fill="#6f756d">, </tspan><tspan fill="#a8d962">'Node'</tspan><tspan fill="#6f756d">, </tspan><tspan fill="#a8d962">'TypeScript'</tspan><tspan fill="#6f756d">, </tspan><tspan fill="#a8d962">'AWS'</tspan><tspan fill="#6f756d">],</tspan></text>
+      <text x="372" y="280"><tspan fill="#d6dcc8">focus</tspan><tspan fill="#6f756d">:   [</tspan><tspan fill="#a8d962">'Cloud'</tspan><tspan fill="#6f756d">, </tspan><tspan fill="#a8d962">'AI/ML'</tspan><tspan fill="#6f756d">, </tspan><tspan fill="#a8d962">'Micro-Frontends'</tspan><tspan fill="#6f756d">],</tspan></text>
+      <text x="372" y="308"><tspan fill="#d6dcc8">openTo</tspan><tspan fill="#6f756d">:  </tspan><tspan fill="#a8d962">'collaboration &amp; open-source'</tspan><tspan fill="#6f756d">,</tspan></text>
+      <text x="344" y="336"><tspan fill="#6f756d">}</tspan></text>
+      <text x="344" y="392"><tspan fill="#5b8cff">developer</tspan><tspan fill="#e2ff2d">.ship</tspan><tspan fill="#6f756d">()</tspan><tspan fill="#4c5346">   // ⚡ building impactful products</tspan></text>
+    </g>
+    <!-- caret -->
+    <rect x="478" y="380" width="9" height="17" fill="#e2ff2d"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></rect>
+
+    <!-- status bar -->
+    <rect x="40" y="428" width="1120" height="22" fill="#11160c"/>
+    <line x1="40" y1="428" x2="1160" y2="428" stroke="#e2ff2d" stroke-opacity="0.22"/>
+    <rect x="40" y="428" width="92" height="22" fill="#e2ff2d"/>
+    <text x="56" y="443" class="m" font-size="11" fill="#0b0e09">⎇ main</text>
+    <text x="146" y="443" class="m" font-size="11" fill="#7e8576">✓ 0 errors  ✗ 0 warnings</text>
+    <text x="1146" y="443" text-anchor="end" class="m" font-size="11" fill="#6f756d">Ln 10, Col 32    TypeScript    UTF-8    ⚡ Prettier</text>
+  </g>
+</svg>
