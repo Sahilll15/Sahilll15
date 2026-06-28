@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" width="1200" height="170" fill="none" role="img" aria-label="footer">
+  <defs>
+    <pattern id="fgrid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="#e2ff2d" stroke-width="1" opacity="0.05"/>
+    </pattern>
+    <radialGradient id="fglow" cx="50%" cy="100%" r="70%">
+      <stop offset="0%" stop-color="#e2ff2d" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#e2ff2d" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ftop" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#e2ff2d" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#e2ff2d"/>
+      <stop offset="100%" stop-color="#e2ff2d" stop-opacity="0"/>
+    </linearGradient>
+    <style>.mono{font-family:'JetBrains Mono','SF Mono',ui-monospace,monospace;}</style>
+  </defs>
+  <rect width="1200" height="170" fill="#080a09"/>
+  <rect width="1200" height="170" fill="url(#fgrid)"/>
+  <ellipse cx="600" cy="170" rx="520" ry="150" fill="url(#fglow)"/>
+  <rect x="0" y="0" width="1200" height="2" fill="url(#ftop)"/>
+
+  <!-- equalizer bars -->
+  <g transform="translate(516,118)" fill="#e2ff2d">
+    <rect x="0"   width="9" height="20" y="-20" rx="3"><animate attributeName="height" values="10;42;18;34;10" dur="1.4s" repeatCount="indefinite"/><animate attributeName="y" values="-10;-42;-18;-34;-10" dur="1.4s" repeatCount="indefinite"/></rect>
+    <rect x="16"  width="9" height="30" y="-30" rx="3" opacity="0.85"><animate attributeName="height" values="30;12;40;16;30" dur="1.7s" repeatCount="indefinite"/><animate attributeName="y" values="-30;-12;-40;-16;-30" dur="1.7s" repeatCount="indefinite"/></rect>
+    <rect x="32"  width="9" height="46" y="-46" rx="3"><animate attributeName="height" values="46;20;34;14;46" dur="1.2s" repeatCount="indefinite"/><animate attributeName="y" values="-46;-20;-34;-14;-46" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="48"  width="9" height="22" y="-22" rx="3" fill="#5b8cff"><animate attributeName="height" values="22;48;16;40;22" dur="1.5s" repeatCount="indefinite"/><animate attributeName="y" values="-22;-48;-16;-40;-22" dur="1.5s" repeatCount="indefinite"/></rect>
+    <rect x="64"  width="9" height="38" y="-38" rx="3" opacity="0.85"><animate attributeName="height" values="38;14;30;46;38" dur="1.9s" repeatCount="indefinite"/><animate attributeName="y" values="-38;-14;-30;-46;-38" dur="1.9s" repeatCount="indefinite"/></rect>
+    <rect x="80"  width="9" height="28" y="-28" rx="3"><animate attributeName="height" values="28;44;12;36;28" dur="1.3s" repeatCount="indefinite"/><animate attributeName="y" values="-28;-44;-12;-36;-28" dur="1.3s" repeatCount="indefinite"/></rect>
+    <rect x="96"  width="9" height="34" y="-34" rx="3" opacity="0.85"><animate attributeName="height" values="34;16;46;22;34" dur="1.6s" repeatCount="indefinite"/><animate attributeName="y" values="-34;-16;-46;-22;-34" dur="1.6s" repeatCount="indefinite"/></rect>
+    <rect x="112" width="9" height="20" y="-20" rx="3"><animate attributeName="height" values="20;40;14;32;20" dur="1.45s" repeatCount="indefinite"/><animate attributeName="y" values="-20;-40;-14;-32;-20" dur="1.45s" repeatCount="indefinite"/></rect>
+    <rect x="128" width="9" height="44" y="-44" rx="3" fill="#5b8cff"><animate attributeName="height" values="44;18;36;12;44" dur="1.25s" repeatCount="indefinite"/><animate attributeName="y" values="-44;-18;-36;-12;-44" dur="1.25s" repeatCount="indefinite"/></rect>
+  </g>
+
+  <text x="600" y="150" text-anchor="middle" class="mono" font-size="15" fill="#7e8576">
+    <tspan fill="#e2ff2d">$</tspan> echo <tspan fill="#aeb4ac">"thanks for visiting — let's build something impactful ⚡"</tspan>
+  </text>
+</svg>

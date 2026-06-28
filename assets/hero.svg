@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" fill="none" role="img" aria-label="Sahil Chalke — Full-Stack Software Engineer">
+  <defs>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="#e2ff2d" stroke-width="1" opacity="0.06"/>
+    </pattern>
+    <radialGradient id="acidGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#e2ff2d" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#e2ff2d" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blueGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#5b8cff" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#5b8cff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="acidLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#e2ff2d" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#e2ff2d"/>
+      <stop offset="100%" stop-color="#c5e600" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="travel" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="40%" stop-color="#e2ff2d"/>
+      <stop offset="100%" stop-color="#e2ff2d" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="9"/></filter>
+    <filter id="textGlow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="6"/></filter>
+    <style>
+      .name { font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif; font-weight:800; letter-spacing:8px; }
+      .mono { font-family:'JetBrains Mono','SF Mono',ui-monospace,'Courier New',monospace; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" fill="#080a09"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+
+  <!-- drifting glows -->
+  <ellipse cx="240" cy="80" rx="320" ry="200" fill="url(#acidGlow)" filter="url(#soft)">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="6s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 40 18; 0 0" dur="11s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="1000" cy="240" rx="300" ry="190" fill="url(#blueGlow)" filter="url(#soft)">
+    <animate attributeName="opacity" values="0.4;0.8;0.4" dur="7s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0; -36 -16; 0 0" dur="13s" repeatCount="indefinite"/>
+  </ellipse>
+  <rect width="1200" height="300" fill="#080a09" opacity="0.28"/>
+
+  <!-- HUD corner brackets -->
+  <path d="M34 70 V34 H82" stroke="#e2ff2d" stroke-width="2"><animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite"/></path>
+  <path d="M1166 230 V266 H1118" stroke="#5b8cff" stroke-width="2"><animate attributeName="opacity" values="0.4;0.9;0.4" dur="4.5s" repeatCount="indefinite"/></path>
+
+  <!-- prompt tag -->
+  <text x="600" y="86" text-anchor="middle" class="mono" font-size="17" fill="#7e8576">
+    <tspan fill="#e2ff2d">~/sahil-chalke</tspan> <tspan fill="#5b8cff">git:(</tspan><tspan fill="#e2ff2d">main</tspan><tspan fill="#5b8cff">)</tspan> <tspan fill="#f4f6f3">❯ whoami</tspan>
+  </text>
+
+  <!-- name (always legible: white text + acid halo) -->
+  <text x="600" y="172" text-anchor="middle" class="name" font-size="78" fill="#e2ff2d" opacity="0.45" filter="url(#textGlow)">SAHIL CHALKE</text>
+  <text x="600" y="172" text-anchor="middle" class="name" font-size="78" fill="#f4f6f3">SAHIL CHALKE</text>
+
+  <!-- underline: static gradient bar + travelling highlight -->
+  <rect x="370" y="190" width="460" height="4" rx="2" fill="url(#acidLine)"/>
+  <ellipse cx="370" cy="192" rx="46" ry="7" fill="url(#travel)">
+    <animate attributeName="cx" values="380;820;380" dur="4.5s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+  </ellipse>
+
+  <!-- subtitle + blinking cursor -->
+  <text x="588" y="236" text-anchor="middle" class="mono" font-size="20" fill="#aeb4ac" letter-spacing="2">
+    Full-Stack Software Engineer <tspan fill="#e2ff2d">·</tspan> Cloud &amp; AI Builder
+  </text>
+  <rect x="852" y="222" width="11" height="19" fill="#e2ff2d">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.05s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- floating particles -->
+  <circle cx="150" cy="210" r="3" fill="#e2ff2d"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.2s" repeatCount="indefinite"/></circle>
+  <circle cx="1060" cy="90" r="2.5" fill="#5b8cff"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.6s" repeatCount="indefinite"/></circle>
+  <circle cx="930" cy="60" r="2" fill="#e2ff2d"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="4s" repeatCount="indefinite"/></circle>
+  <circle cx="220" cy="120" r="2" fill="#5b8cff"><animate attributeName="opacity" values="0.15;0.8;0.15" dur="3.6s" repeatCount="indefinite"/></circle>
+</svg>

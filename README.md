@@ -1,96 +1,92 @@
-<!-- ============================================================= -->
-<!-- ⚡  SAHIL CHALKE — GITHUB PROFILE README  ⚡                    -->
-<!-- Theme: Neon Cyan (#00F0FF) → Electric Purple (#7B2FFF)        -->
-<!-- ============================================================= -->
+<!-- ============================================================================ -->
+<!-- ⚡  SAHIL CHALKE — GITHUB PROFILE  ⚡                                          -->
+<!-- Design language mirrors sahilchalke.com                                       -->
+<!-- Acid #e2ff2d · Blue #5b8cff · Ink #080a09 · JetBrains Mono / Clash Display    -->
+<!-- ============================================================================ -->
 
-<!-- ===================== HERO BANNER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:7B2FFF,100:00F0FF&height=190&section=header&animation=fadeIn" alt="banner"/>
+<!-- ============================ HERO ============================ -->
+<a href="https://sahilchalke.com">
+  <img width="100%" src="https://raw.githubusercontent.com/Sahilll15/Sahilll15/main/assets/hero.svg" alt="Sahil Chalke — Full-Stack Software Engineer"/>
+</a>
 
-<!-- ===================== ANIMATED TITLE ===================== -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=760&height=75&lines=Hey+there!+%F0%9F%91%8B+I'm+Sahil+Chalke;Full-Stack+Software+Engineer;MERN+Stack+Specialist;Cloud+%26+AI+Enthusiast;Turning+Ideas+Into+Impactful+Solutions" alt="Typing SVG"/>
-</h1>
-
+<!-- ============================ ROLES (typing) ============================ -->
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80-Building%20with%20Passion-00F0FF?style=for-the-badge&labelColor=0D1117" alt="Building with Passion"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=E2FF2D&center=true&vCenter=true&width=620&height=42&lines=Full-Stack+Software+Engineer;MERN+Stack+Specialist;Cloud+%26+AI+Enthusiast;Turning+Ideas+Into+Impactful+Solutions" alt="roles"/>
+  </a>
 </p>
 
-<!-- ===================== TAGLINE ===================== -->
-<p align="center">
-  Passionate <strong>Software Engineer</strong> crafting <em>scalable, efficient &amp; user-focused</em> digital products.<br/>
-  Currently innovating at <a href="https://www.contentstack.com/"><strong>Contentstack</strong></a> 💼 — bridging <strong>Cloud, AI &amp; Next-Gen Web Tech</strong>.
-</p>
-
-<!-- ===================== SOCIAL BADGES ===================== -->
+<!-- ============================ SOCIAL ============================ -->
 <p align="center">
   <a href="https://sahilchalke.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=0D1117&labelColor=0D1117&color=00F0FF" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-e2ff2d?style=for-the-badge&logo=google-chrome&logoColor=080a09&labelColor=080a09&color=e2ff2d" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/sahilchalke/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-5b8cff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080a09&color=5b8cff" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/u/sahil_chalke/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-e2ff2d?style=for-the-badge&logo=leetcode&logoColor=080a09&labelColor=080a09&color=e2ff2d" alt="LeetCode"/>
   </a>
   <a href="mailto:Sahilchalke1011@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email Me"/>
+    <img src="https://img.shields.io/badge/Email-5b8cff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080a09&color=5b8cff" alt="Email"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Sahilll15&label=visitors&color=e2ff2d&style=for-the-badge&labelColor=080a09" alt="Profile views"/>
 </p>
 
-<!-- divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FFF,100:00F0FF&height=3&section=header" alt="divider"/>
+<img width="100%" src="https://raw.githubusercontent.com/Sahilll15/Sahilll15/main/assets/divider.svg" alt="divider"/>
 
-<!-- ===================== ABOUT ME ===================== -->
-<h2 align="center">💫 About Me</h2>
+<!-- ============================ ABOUT ============================ -->
+<p align="center">
+  <img src="https://img.shields.io/badge/%2F%2F-about__me-e2ff2d?style=for-the-badge&labelColor=080a09&color=e2ff2d" alt="about me"/>
+</p>
+
+```ts
+const sahilChalke: Engineer = {
+  role:       "Associate Software Engineer @ Contentstack",
+  mission:    "Crafting scalable, efficient & user-focused digital products",
+  exploring:  ["AWS", "AI / ML", "Cloud-Native Architectures"],
+  loves:      ["open source", "collaborative builds", "developer tooling"],
+  askMeAbout: ["MERN Stack", "Cloud Infra", "AI Integration", "Micro-Frontends"],
+  funFact:    "I build tools that make developers' lives easier ⚡",
+};
+```
+
+<img width="100%" src="https://raw.githubusercontent.com/Sahilll15/Sahilll15/main/assets/divider.svg" alt="divider"/>
+
+<!-- ============================ TECH ============================ -->
+<p align="center">
+  <img src="https://img.shields.io/badge/%2F%2F-tech__universe-e2ff2d?style=for-the-badge&labelColor=080a09&color=e2ff2d" alt="tech universe"/>
+</p>
 
 <table align="center">
-<tr><td>
-
-- 💼 &nbsp;Software Engineer @ [**Contentstack**](https://www.contentstack.com/)
-- 🌱 &nbsp;Exploring **AWS**, **AI/ML**, and **Cloud-Native Architectures**
-- 🤝 &nbsp;Love contributing to **open source** & collaborative projects
-- 🧩 &nbsp;Ask me about **MERN Stack, Cloud Infra, AI Integration, Micro-Frontends**
-- ⚡ &nbsp;Fun fact: I love building tools that make **developers' lives easier!**
-
-</td></tr>
+  <tr>
+    <td align="right"><b>🎨&nbsp; Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,next,ts,redux,html,css,tailwind,bootstrap,vite,webpack&theme=dark" alt="frontend"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>⚙️&nbsp; Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,graphql,prisma,solidity&theme=dark" alt="backend"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🗄️&nbsp; Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase,appwrite&theme=dark" alt="databases"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>☁️&nbsp; DevOps &amp; Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,aws,githubactions,git,nginx,linux,vercel,netlify&theme=dark" alt="devops"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🧪&nbsp; Testing &amp; Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=jest,postman,kafka,cpp,flutter&theme=dark" alt="testing"/></td>
+  </tr>
 </table>
 
-<!-- divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:7B2FFF&height=3&section=header" alt="divider"/>
+<img width="100%" src="https://raw.githubusercontent.com/Sahilll15/Sahilll15/main/assets/divider.svg" alt="divider"/>
 
-<!-- ===================== TECH UNIVERSE ===================== -->
-<h2 align="center">🧰 Tech Universe</h2>
-
-<h3 align="center">🎨 &nbsp;Frontend</h3>
+<!-- ============================ ACHIEVEMENTS ============================ -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,ts,redux,html,css,tailwind,bootstrap,vite,webpack&theme=dark" alt="Frontend"/>
+  <img src="https://img.shields.io/badge/%2F%2F-achievements-e2ff2d?style=for-the-badge&labelColor=080a09&color=e2ff2d" alt="achievements"/>
 </p>
-
-<h3 align="center">⚙️ &nbsp;Backend</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,graphql,prisma,solidity&theme=dark" alt="Backend"/>
-</p>
-
-<h3 align="center">🗄️ &nbsp;Databases</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase,appwrite&theme=dark" alt="Databases"/>
-</p>
-
-<h3 align="center">☁️ &nbsp;DevOps &amp; Cloud</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,git,nginx,linux,vercel,netlify&theme=dark" alt="DevOps & Cloud"/>
-</p>
-
-<h3 align="center">🧪 &nbsp;Testing &amp; Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=jest,postman,kafka,cpp,flutter&theme=dark" alt="Testing & Tools"/>
-</p>
-
-<!-- divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FFF,100:00F0FF&height=3&section=header" alt="divider"/>
-
-<!-- ===================== ACHIEVEMENTS ===================== -->
-<h2 align="center">🏆 Achievements &amp; Highlights</h2>
 
 <div align="center">
 
@@ -106,26 +102,32 @@
 
 </div>
 
-<!-- divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:7B2FFF&height=3&section=header" alt="divider"/>
+<img width="100%" src="https://raw.githubusercontent.com/Sahilll15/Sahilll15/main/assets/divider.svg" alt="divider"/>
 
-<!-- ===================== GITHUB ANALYTICS ===================== -->
-<h2 align="center">⚙️ GitHub Analytics</h2>
-
+<!-- ============================ STATS ============================ -->
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sahilll15&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=7B2FFF&text_color=C9D1D9&ring_color=00F0FF" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Sahilll15&hide_border=true&background=0D1117&stroke=7B2FFF&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
+  <img src="https://img.shields.io/badge/%2F%2F-github__stats-e2ff2d?style=for-the-badge&labelColor=080a09&color=e2ff2d" alt="github stats"/>
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sahilll15&bg_color=0D1117&color=00F0FF&line=7B2FFF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sahilll15&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=080a09&title_color=e2ff2d&icon_color=5b8cff&text_color=f4f6f3&ring_color=e2ff2d" alt="stats"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Sahilll15&hide_border=true&background=080a09&stroke=e2ff2d&ring=e2ff2d&fire=e2ff2d&currStreakLabel=e2ff2d&sideLabels=aeb4ac&dates=7e8576&currStreakNum=f4f6f3&sideNums=f4f6f3" alt="streak"/>
 </p>
 
-<!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sahilll15&label=Profile%20Views&color=00F0FF&style=for-the-badge" alt="Profile Views"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilll15&layout=compact&hide_border=true&langs_count=8&bg_color=080a09&title_color=e2ff2d&text_color=f4f6f3" alt="top languages"/>
 </p>
 
-<p align="center"><i>⭐ Thanks for visiting — let's build something impactful together!</i></p>
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sahilll15&bg_color=080a09&color=e2ff2d&line=5b8cff&point=f4f6f3&title_color=e2ff2d&area=true&hide_border=true" alt="activity graph"/>
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7B2FFF,100:0F2027&height=150&section=footer&animation=fadeIn" alt="footer"/>
+<!-- contribution snake (generated by the workflow → output branch) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sahilll15/Sahilll15/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sahilll15/Sahilll15/output/snake.svg"/>
+  <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/Sahilll15/Sahilll15/output/snake.svg"/>
+</picture>
+
+<!-- ============================ FOOTER ============================ -->
+<img width="100%" src="https://raw.githubusercontent.com/Sahilll15/Sahilll15/main/assets/footer.svg" alt="footer"/>
