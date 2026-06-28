@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 424" width="1200" height="424" fill="none" role="img" aria-label="featured projects terminal">
+  <defs>
+    <filter id="sh" x="-20%" y="-20%" width="140%" height="160%"><feDropShadow dx="0" dy="12" stdDeviation="20" flood-color="#000000" flood-opacity="0.5"/></filter>
+    <clipPath id="cw"><rect x="20" y="16" width="1160" height="392" rx="14"/></clipPath>
+    <style>.m{font-family:'JetBrains Mono','SF Mono',ui-monospace,'Courier New',monospace;}</style>
+  </defs>
+  <rect x="20" y="16" width="1160" height="392" rx="14" fill="#0d100c" stroke="#e2ff2d" stroke-opacity="0.16" filter="url(#sh)"/>
+  <g clip-path="url(#cw)">
+    <rect x="20" y="16" width="1160" height="40" fill="#0b0e09"/>
+    <circle cx="50" cy="36" r="6.5" fill="#ff5f57"/><circle cx="72" cy="36" r="6.5" fill="#febc2e"/><circle cx="94" cy="36" r="6.5" fill="#e2ff2d"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.6s" repeatCount="indefinite"/></circle>
+    <text x="600" y="41" text-anchor="middle" class="m" font-size="13" fill="#7e8576">sahil@dev: ~/projects</text>
+    <text x="1156" y="41" text-anchor="end" class="m" font-size="12" fill="#4c5346">zsh</text>
+    <line x1="20" y1="56" x2="1180" y2="56" stroke="#ffffff" stroke-opacity="0.06"/>
+
+    <text x="48" y="92" class="m" font-size="14"><tspan fill="#e2ff2d">❯</tspan><tspan fill="#d6dcc8"> ls</tspan><tspan fill="#a8d962"> ~/projects</tspan><tspan fill="#5b8cff"> --featured --sort=stars</tspan></text>
+
+    <!-- entry 1: DSA -->
+    <rect x="46" y="124" width="22" height="14" rx="2.5" fill="none" stroke="#e2ff2d" stroke-width="1.5"/><rect x="46" y="121" width="9" height="4" rx="1.5" fill="#e2ff2d"/>
+    <text x="80" y="138" class="m" font-size="15.5" fill="#f4f6f3">DSA</text>
+    <text x="1150" y="138" text-anchor="end" class="m" font-size="13"><tspan fill="#febc2e">★ 7</tspan><tspan fill="#4c5346"> · </tspan><tspan fill="#5b8cff">C++</tspan></text>
+    <text x="80" y="160" class="m" font-size="13" fill="#7e8576">Curated data-structures &amp; algorithms practice</text>
+
+    <!-- entry 2: Cricket_Scorer -->
+    <rect x="46" y="184" width="22" height="14" rx="2.5" fill="none" stroke="#e2ff2d" stroke-width="1.5"/><rect x="46" y="181" width="9" height="4" rx="1.5" fill="#e2ff2d"/>
+    <text x="80" y="198" class="m" font-size="15.5" fill="#f4f6f3">Cricket_Scorer</text>
+    <text x="1150" y="198" text-anchor="end" class="m" font-size="13"><tspan fill="#febc2e">★ 4</tspan><tspan fill="#4c5346"> · </tspan><tspan fill="#5b8cff">Python</tspan></text>
+    <text x="80" y="220" class="m" font-size="13" fill="#7e8576">Real-time cricket scoring web application</text>
+
+    <!-- entry 3: Video-chat -->
+    <rect x="46" y="244" width="22" height="14" rx="2.5" fill="none" stroke="#e2ff2d" stroke-width="1.5"/><rect x="46" y="241" width="9" height="4" rx="1.5" fill="#e2ff2d"/>
+    <text x="80" y="258" class="m" font-size="15.5" fill="#f4f6f3">Video-chat</text>
+    <text x="1150" y="258" text-anchor="end" class="m" font-size="13"><tspan fill="#febc2e">★ 3</tspan><tspan fill="#4c5346"> · </tspan><tspan fill="#5b8cff">JavaScript</tspan></text>
+    <text x="80" y="280" class="m" font-size="13" fill="#7e8576">Real-time peer-to-peer video chat application</text>
+
+    <!-- entry 4: RecallDSA -->
+    <rect x="46" y="304" width="22" height="14" rx="2.5" fill="none" stroke="#e2ff2d" stroke-width="1.5"/><rect x="46" y="301" width="9" height="4" rx="1.5" fill="#e2ff2d"/>
+    <text x="80" y="318" class="m" font-size="15.5" fill="#f4f6f3">RecallDSA</text>
+    <text x="1150" y="318" text-anchor="end" class="m" font-size="13"><tspan fill="#febc2e">★ 1</tspan><tspan fill="#4c5346"> · </tspan><tspan fill="#5b8cff">TypeScript</tspan></text>
+    <text x="80" y="340" class="m" font-size="13" fill="#7e8576">Spaced-repetition DSA revision, synced to your GitHub</text>
+
+    <text x="48" y="386" class="m" font-size="13.5"><tspan fill="#e2ff2d">✓</tspan><tspan fill="#7e8576"> showing 4 of 130 repositories · </tspan><tspan fill="#5b8cff">github.com/Sahilll15?tab=repositories</tspan></text>
+    <rect x="700" y="375" width="9" height="15" fill="#e2ff2d"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>
