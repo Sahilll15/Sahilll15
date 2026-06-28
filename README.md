@@ -13,19 +13,10 @@
 
 <!-- ============================ SOCIAL ============================ -->
 <p align="center">
-  <a href="https://sahilchalke.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-e2ff2d?style=for-the-badge&logo=google-chrome&logoColor=080a09&labelColor=080a09&color=e2ff2d" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sahilchalke/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-5b8cff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080a09&color=5b8cff" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/u/sahil_chalke/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-e2ff2d?style=for-the-badge&logo=leetcode&logoColor=080a09&labelColor=080a09&color=e2ff2d" alt="LeetCode"/>
-  </a>
-  <a href="mailto:Sahilchalke1011@gmail.com">
-    <img src="https://img.shields.io/badge/Email-5b8cff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080a09&color=5b8cff" alt="Email"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Sahilll15&label=visitors&color=e2ff2d&style=for-the-badge&labelColor=080a09" alt="Profile views"/>
+  <a href="https://sahilchalke.com"><img height="44" src="https://raw.githubusercontent.com/Sahilll15/Sahilll15/main/assets/btn-portfolio.svg" alt="Portfolio"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/sahilchalke/"><img height="44" src="https://raw.githubusercontent.com/Sahilll15/Sahilll15/main/assets/btn-linkedin.svg" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://leetcode.com/u/sahil_chalke/"><img height="44" src="https://raw.githubusercontent.com/Sahilll15/Sahilll15/main/assets/btn-leetcode.svg" alt="LeetCode"/></a>&nbsp;
+  <a href="mailto:Sahilchalke1011@gmail.com"><img height="44" src="https://raw.githubusercontent.com/Sahilll15/Sahilll15/main/assets/btn-email.svg" alt="Email"/></a>
 </p>
 
 <img width="100%" src="https://raw.githubusercontent.com/Sahilll15/Sahilll15/main/assets/divider.svg" alt="divider"/>
