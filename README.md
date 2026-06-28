@@ -51,6 +51,13 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/Sahilll15/Sahilll15/main/assets/divider.svg" alt="divider"/>
 
+<!-- ============================ OPEN SOURCE ============================ -->
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Sahilll15/Sahilll15/main/assets/panel-oss.svg" alt="open source contributions"/>
+</p>
+
+<img width="100%" src="https://raw.githubusercontent.com/Sahilll15/Sahilll15/main/assets/divider.svg" alt="divider"/>
+
 <!-- ============================ ACHIEVEMENTS ============================ -->
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/Sahilll15/Sahilll15/main/assets/panel-achievements.svg" alt="achievements"/>

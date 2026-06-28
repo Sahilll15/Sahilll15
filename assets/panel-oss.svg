@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 388" width="1200" height="388" fill="none" role="img" aria-label="open source contributions">
+  <defs>
+    <filter id="sh" x="-20%" y="-20%" width="140%" height="160%"><feDropShadow dx="0" dy="12" stdDeviation="20" flood-color="#000000" flood-opacity="0.5"/></filter>
+    <clipPath id="cw"><rect x="20" y="16" width="1160" height="356" rx="14"/></clipPath>
+    <style>.m{font-family:'JetBrains Mono','SF Mono',ui-monospace,'Courier New',monospace;}</style>
+  </defs>
+  <rect x="20" y="16" width="1160" height="356" rx="14" fill="#0d100c" stroke="#e2ff2d" stroke-opacity="0.16" filter="url(#sh)"/>
+  <g clip-path="url(#cw)">
+    <rect x="20" y="16" width="1160" height="40" fill="#0b0e09"/>
+    <circle cx="50" cy="36" r="6.5" fill="#ff5f57"/><circle cx="72" cy="36" r="6.5" fill="#febc2e"/><circle cx="94" cy="36" r="6.5" fill="#e2ff2d"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.6s" repeatCount="indefinite"/></circle>
+    <text x="600" y="41" text-anchor="middle" class="m" font-size="13" fill="#7e8576">sahil@dev: ~/open-source</text>
+    <text x="1156" y="41" text-anchor="end" class="m" font-size="12" fill="#4c5346">git</text>
+    <line x1="20" y1="56" x2="1180" y2="56" stroke="#ffffff" stroke-opacity="0.06"/>
+
+    <text x="48" y="92" class="m" font-size="14"><tspan fill="#e2ff2d">❯</tspan><tspan fill="#d6dcc8"> gh pr list</tspan><tspan fill="#5b8cff"> --author Sahilll15 --state merged</tspan></text>
+
+    <g class="m" font-size="14.5">
+      <circle cx="58" cy="131" r="5" fill="#a371f7"/>
+      <text x="78" y="136"><tspan fill="#7e8576">AdityaShah7867/</tspan><tspan fill="#f4f6f3">NOTESHARE</tspan></text>
+      <text x="1140" y="136" text-anchor="end"><tspan fill="#4c5346">merged </tspan><tspan fill="#e2ff2d">×10</tspan></text>
+
+      <circle cx="58" cy="163" r="5" fill="#a371f7"/>
+      <text x="78" y="168"><tspan fill="#7e8576">AdityaShah7867/</tspan><tspan fill="#f4f6f3">TOWN_TALKS_FRONTEND</tspan></text>
+      <text x="1140" y="168" text-anchor="end"><tspan fill="#4c5346">merged </tspan><tspan fill="#e2ff2d">×8</tspan></text>
+
+      <circle cx="58" cy="195" r="5" fill="#a371f7"/>
+      <text x="78" y="200"><tspan fill="#7e8576">Slacky300/</tspan><tspan fill="#f4f6f3">QuantumElite</tspan><tspan fill="#4c5346"> (hackathon)</tspan></text>
+      <text x="1140" y="200" text-anchor="end"><tspan fill="#4c5346">merged </tspan><tspan fill="#e2ff2d">×8</tspan></text>
+
+      <circle cx="58" cy="227" r="5" fill="#a371f7"/>
+      <text x="78" y="232"><tspan fill="#7e8576">AdityaShah7867/</tspan><tspan fill="#f4f6f3">SocialHub</tspan></text>
+      <text x="1140" y="232" text-anchor="end"><tspan fill="#4c5346">merged </tspan><tspan fill="#e2ff2d">×7</tspan></text>
+
+      <circle cx="58" cy="259" r="5" fill="#a371f7"/>
+      <text x="78" y="264"><tspan fill="#7e8576">hereisSwapnil/</tspan><tspan fill="#f4f6f3">ExamTime</tspan></text>
+      <text x="1140" y="264" text-anchor="end"><tspan fill="#4c5346">merged </tspan><tspan fill="#e2ff2d">×5</tspan></text>
+
+      <circle cx="58" cy="291" r="5" fill="#a371f7"/>
+      <text x="78" y="296"><tspan fill="#7e8576">Nishitbaria/</tspan><tspan fill="#f4f6f3">Dev-Exchange</tspan></text>
+      <text x="1140" y="296" text-anchor="end"><tspan fill="#4c5346">merged </tspan><tspan fill="#e2ff2d">×4</tspan></text>
+    </g>
+
+    <text x="48" y="340" class="m" font-size="13.5"><tspan fill="#e2ff2d">✓</tspan><tspan fill="#7e8576"> 64 merged PRs across 17 open-source repos · also </tspan><tspan fill="#5b8cff">devFind</tspan><tspan fill="#7e8576">, </tspan><tspan fill="#5b8cff">git-re</tspan><tspan fill="#7e8576">, </tspan><tspan fill="#5b8cff">URLShortener</tspan></text>
+  </g>
+</svg>
