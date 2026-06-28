@@ -70,11 +70,6 @@
   <img width="100%" src="https://raw.githubusercontent.com/Sahilll15/Sahilll15/main/assets/panel-stats.svg" alt="github stats"/>
 </p>
 
-<!-- animated 3D isometric contribution graph (workflow: 3d-contrib.yml) -->
-<p align="center">
-  <img width="98%" src="https://raw.githubusercontent.com/Sahilll15/Sahilll15/main/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph"/>
-</p>
-
 <!-- contribution snake (workflow: snake.yml → output branch) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sahilll15/Sahilll15/output/snake-dark.svg"/>
