@@ -42,6 +42,27 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/Sahilll15/Sahilll15/main/assets/divider.svg" alt="divider"/>
 
+<!-- ============================ RECENTLY SHIPPED ============================ -->
+<h3 align="center">Recently shipped: 11 AI apps, all live and open source</h3>
+
+| App | What it does | Try it | Code |
+| --- | --- | --- | --- |
+| **Ask India** | Answers about Indian government services, only from gov.in and nic.in pages, every link checked | [askindia.online](https://askindia.online) | [repo](https://github.com/Sahilll15/ask-india) |
+| **Interview Coach** | Spoken mock interviews over the OpenAI Realtime API, scored with quotes from your answers | [live](https://interview-coach-seven-rose.vercel.app) | [repo](https://github.com/Sahilll15/interview-coach) |
+| **Minutes** | Meeting audio to decisions and action items, each linked to its transcript line | [live](https://minutes-sand.vercel.app) | [repo](https://github.com/Sahilll15/minutes) |
+| **SplitSnap** | Snap a receipt and split it to the exact cent | [live](https://splitsnap-sandy.vercel.app) | [repo](https://github.com/Sahilll15/splitsnap) |
+| **AskCSV** | Ask a CSV questions in plain English, SQL runs in your browser with DuckDB-WASM | [live](https://askcsv-seven.vercel.app) | [repo](https://github.com/Sahilll15/askcsv) |
+| **ShipNotes** | Release notes from a GitHub tag range, every line linked to its PR | [live](https://shipnotes-mu.vercel.app) | [repo](https://github.com/Sahilll15/shipnotes) |
+| **ToneRadar** | How a message will land before you send it | [live](https://toneradar.vercel.app) | [repo](https://github.com/Sahilll15/toneradar) |
+| **Headline Arena** | Rank headlines like a sports leaderboard, with a clickbait penalty | [live](https://headline-arena-gamma.vercel.app) | [repo](https://github.com/Sahilll15/headline-arena) |
+| **FinePrint** | A contract redlined by risk, with the three clauses to read first | [live](https://fineprint-beta.vercel.app) | [repo](https://github.com/Sahilll15/fineprint) |
+| **Fallacy Finder** | Logical fallacies in an argument, line by line | [live](https://fallacy-finder-nine.vercel.app) | [repo](https://github.com/Sahilll15/fallacy-finder) |
+| **PitchPanel** | Five investor archetypes judge your startup pitch | [live](https://pitchpanel.vercel.app) | [repo](https://github.com/Sahilll15/pitchpanel) |
+
+<p align="center"><sub>How they are built: <a href="https://sahilchalke.com/blog/four-apps-where-the-model-has-to-show-its-work">four apps where the model has to show its work</a> &nbsp;·&nbsp; <a href="https://sahilchalke.com/blog/five-apps-on-a-model-that-only-answers-in-numbers">five apps on a model that only answers in numbers</a></sub></p>
+
+<img width="100%" src="https://raw.githubusercontent.com/Sahilll15/Sahilll15/main/assets/divider.svg" alt="divider"/>
+
 <!-- ============================ OPEN SOURCE ============================ -->
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/Sahilll15/Sahilll15/main/assets/panel-oss.svg" alt="open source contributions"/>
